@@ -50,12 +50,9 @@
 ```diff 
 
 - [DEPLOYMENT ]
-- ### OPGOHIL 
+- You can deploy this bot following below options
 
 ```
-
-You can deploy this bot following below options
-
 <summary>Deploy To Heroku</summary>
 <p>
 <br>
