@@ -163,7 +163,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     "I'm not connected to any groups!\nCheck /connections or connect to any groups",
                     quote=True
                 )
-                return await query.answer('Piracy Is Crime')
+                return await query.answer('owner @opgohil')
 
         elif chat_type in ["group", "supergroup"]:
             grp_id = query.message.chat.id
