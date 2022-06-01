@@ -56,8 +56,12 @@
             "required": false
         },
         "FILE_STORE_CHANNEL" : {
-            "dedcription" : "Crate Db chennel and provide id.",
+            "description" : "Create Db chennel and provide id.",
             "required" : true
+        },
+        "PROTECT_CONTENT" : {
+            "description" : "Don't allow to forward or share file's if you want to use this function type True in box.",
+            "required" : false
         },
         "DATABASE_URI": {
             "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help search on youtube",
