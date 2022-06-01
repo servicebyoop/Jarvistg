@@ -54,7 +54,7 @@ You can deploy this bot following below options
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://dashboard.heroku.com/new?button-url=https://github.com/&template=https://github.com/servicebyoop/Jarvis">
+<a href="https://dashboard.heroku.com/new?button-url=https://github.com/&template=https://github.com/servicebyoop/Jarvistg">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
