@@ -47,8 +47,12 @@
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
 * Check [info.py](https://github.com/servicebyoop/Jarvistg/blob/master/info.py) for more
 
+```diff 
 
-## Deploy
+- [ FIND DEPLOYMENT BUTTON ]
+
+```
+## Deployment
 You can deploy this bot following below options
 
 <details><summary>Deploy To Heroku</summary>
