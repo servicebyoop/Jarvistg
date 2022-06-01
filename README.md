@@ -45,6 +45,7 @@
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
+* `PROTECT_CONTENT` : Don't allow to forward or share file's 
 * Check [info.py](https://github.com/servicebyoop/Jarvistg/blob/master/info.py) for more
 
 ```diff 
